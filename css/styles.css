@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body {
+    background-image: url(../images/leaf.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+	font-family: 'Sen', sans-serif;
+}
+.something {
+    background-color: #EC090D;
+    width: 108px;
+    border-radius: 20px;
+    height: 111px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Verdana", sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    color: #F8F8F8;
+}
+.p {
+    color: #FFFFFF;
+}
